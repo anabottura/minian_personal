@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "locale": "en_GB.UTF-8",
+  "metadata": {
+    "appmode": "jupyter-static",
+    "entrypoint": "pipeline-not-interactive.ipynb"
+  },
+  "python": {
+    "version": "3.8.13",
+    "package_manager": {
+      "name": "pip",
+      "version": "22.1.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "pipeline-not-interactive.ipynb": {
+      "checksum": "c1d57f1ca3180f4078172e860ce8e51a"
+    },
+    "requirements.txt": {
+      "checksum": "49b8b6d64899adc95696acc462ec91af"
+    }
+  }
+}
